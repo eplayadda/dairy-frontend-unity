@@ -1,0 +1,43 @@
+fileFormatVersion: 2
+guid: 51103144320b144489d2d15edb192c61
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _logInController: {instanceID: 0}
+  - _mainMenuController: {instanceID: 0}
+  - _orderController: {instanceID: 0}
+  - _khataController: {instanceID: 0}
+  - _allCustomercontroller: {instanceID: 0}
+  - _ProfileController: {instanceID: 0}
+  - _milkFeedController: {instanceID: 0}
+  - _loadingController: {instanceID: 0}
+  - _allOrderCustomerController: {instanceID: 0}
+  - _invoiceGeneratedMsgController: {instanceID: 0}
+  - _paidInvoiceController: {instanceID: 0}
+  - _menuController: {instanceID: 0}
+  - _msgController: {instanceID: 0}
+  - _shareInvoiceController: {instanceID: 0}
+  - _allCustomerDeleteController: {instanceID: 0}
+  - _settingController: {instanceID: 0}
+  - _shopController: {instanceID: 0}
+  - _accountController: {instanceID: 0}
+  - _deleteCustomerController: {instanceID: 0}
+  - _ItemDetailsShop: {instanceID: 0}
+  - _graphController: {instanceID: 0}
+  - _khataMenuController: {instanceID: 0}
+  - _helpController: {instanceID: 0}
+  - _charaController: {instanceID: 0}
+  - _sinUpController: {instanceID: 0}
+  - _contactController: {instanceID: 0}
+  - _languageController: {instanceID: 0}
+  - _paymentController: {instanceID: 0}
+  - paginationPanel: {instanceID: 0}
+  - hindi: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  - english: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  - currentFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
