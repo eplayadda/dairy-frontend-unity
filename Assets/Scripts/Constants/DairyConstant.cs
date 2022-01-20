@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class DairyConstant 
 {
-    public static string URL_Port = ":1024";//Live server port
+    public static string URL_Port = ":80";//Live server port
   //  public static string URL_Port = "";
-  //  public static string URL_Domain = "http://13.126.154.106" + URL_Port;
-    public static string URL_Domain = "http://localhost" + URL_Port;
+    public static string URL_Domain = "http://13.126.154.106" + URL_Port;
+   // public static string URL_Domain = "http://localhost" + URL_Port;
     public static string URL_LogIn = URL_Domain + "/api/Login/getLogin";
     public static string URL_Profile = URL_Domain + "/api/Customer/addCustomerByFarmID";
     public static string URL_ALL_Customer = URL_Domain + "/api/Customer/getCustomerByFarmID";
