@@ -13,6 +13,7 @@ public class DairyText : MonoBehaviour
     }
     private void OnEnable()
     {
+        if(text!=null)
         DairyString(text.text);
     }
 

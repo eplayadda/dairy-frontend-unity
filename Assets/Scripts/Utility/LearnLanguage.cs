@@ -13,7 +13,7 @@ public class DairyLanguage : MonoBehaviour
     public static string DairyString(string pData, out Font font)
     {
         font = UiManager.instance.english;
-        if (string.IsNullOrEmpty(pData))
+      /*  if (string.IsNullOrEmpty(pData))
         {
             font = null;
             return "";
@@ -24,7 +24,7 @@ public class DairyLanguage : MonoBehaviour
             pData = UnicodeToKrutidev.UnicodeToKrutiDev(pData);
         }
 
-
+    */
         return pData;
     }
 }

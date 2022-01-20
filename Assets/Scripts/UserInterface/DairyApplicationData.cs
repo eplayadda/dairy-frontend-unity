@@ -42,8 +42,8 @@ public class DairyApplicationData : MonoBehaviour
                 DontDestroyOnLoad(tobj);
                 mInstance = tobj.AddComponent<DairyApplicationData>();
                 todayDate = DateTime.Now.Day;
-                //todayMonth = DateTime.Now.Month;
-                todayMonth = 10;
+                todayMonth = DateTime.Now.Month;
+              //  todayMonth = 10;
                 todayYear = DateTime.Now.Year;
                 isLastMonthInvoiceGenerated = true;
                 mInstance.Initialized();
